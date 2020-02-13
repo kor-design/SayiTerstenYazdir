@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\SayiTerstenYazdir\SayiTerstenYaz\SayiTerstenYaz\bin\Debug\SayiTerstenYaz.exe.config
+C:\Users\Windows10\Documents\GitHub\SayiTerstenYazdir\SayiTerstenYaz\SayiTerstenYaz\bin\Debug\SayiTerstenYaz.exe
+C:\Users\Windows10\Documents\GitHub\SayiTerstenYazdir\SayiTerstenYaz\SayiTerstenYaz\bin\Debug\SayiTerstenYaz.pdb
+C:\Users\Windows10\Documents\GitHub\SayiTerstenYazdir\SayiTerstenYaz\SayiTerstenYaz\obj\Debug\SayiTerstenYaz.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\SayiTerstenYazdir\SayiTerstenYaz\SayiTerstenYaz\obj\Debug\SayiTerstenYaz.exe
+C:\Users\Windows10\Documents\GitHub\SayiTerstenYazdir\SayiTerstenYaz\SayiTerstenYaz\obj\Debug\SayiTerstenYaz.pdb
